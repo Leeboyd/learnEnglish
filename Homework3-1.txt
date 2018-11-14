@@ -1,0 +1,5 @@
+In short, as a DevOps, I'm responsible for managing code releases and maintainance which require multitasking and dealing with multiple urgent situations at the same time.
+
+My main function for the company is to help the developer team to deploy their code. As soon as code is written, it is integrated into the current code base on the server.
+
+Recently, my colleague Ken and I have automated the deployment of our internal adminpanel (iia) and have collaborated with developers to make sure new environments meet their requirements.
